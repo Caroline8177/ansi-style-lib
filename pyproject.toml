@@ -1,6 +1,6 @@
 [project]
 name = "ansi-style-lib"
-version = "0.1.0"
+version = "0.1.1"
 description = "Small, dependency-free helpers for colouring terminal output and for deciding whether colour should be emitted at all."
 requires-python = ">=3.10"
 dependencies = []
